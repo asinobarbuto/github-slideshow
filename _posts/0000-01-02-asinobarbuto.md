@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Learning is a Lifelong Process*
 Use the left arrow to go back!
